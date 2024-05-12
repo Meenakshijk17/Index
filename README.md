@@ -30,3 +30,10 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
 
 ## Statistics for Data Science
 - [PCA and LDA](https://github.com/Meenakshijk17/IMDB-movie-review) (Python | Sklearn)
+
+## Power BI | Tableau | Visualizations
+- Lifestyle and Habit Tracking (Power BI | Data Analysis) (To be linked soon)
+
+
+
+*PS. This list is not exhaustive and will keep on getting updated.*
