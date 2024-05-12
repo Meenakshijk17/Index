@@ -23,7 +23,7 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
 ## SQL
 - [LeetCode SQL Challenges](https://github.com/Meenakshijk17/LeetCode_SQL) (SQL | Data Analysis)
 
-## Python/PySpark
+## Python | PySpark
 - [Telecom Log Parsing](https://github.com/Meenakshijk17/Telecom-Log-Parsing-with-PySpark) (Python | PySpark)
 - [Computational Math](https://github.com/Meenakshijk17/computational-mathematics) (Python | Math)
 - [HangMan, the game](https://github.com/Meenakshijk17/hangman) (Python)
