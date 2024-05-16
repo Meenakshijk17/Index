@@ -21,7 +21,8 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
 
 
 ## SQL
-- [LeetCode SQL Challenges](https://github.com/Meenakshijk17/LeetCode_SQL) (SQL | Data Analysis)
+- [SQL Problems](https://github.com/Meenakshijk17/SQL)
+    - [LeetCode SQL Challenges](https://github.com/Meenakshijk17/SQL/tree/main/LeetCode) (SQL | Data Analysis)
 
 ## Python | PySpark
 - [Telecom Log Parsing](https://github.com/Meenakshijk17/Telecom-Log-Parsing-with-PySpark) (Python | PySpark)
