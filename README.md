@@ -19,7 +19,6 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
     - [IMDB Movie Review - Sentiment Analysis](https://github.com/Meenakshijk17/IMDB-movie-review) (Azure | Python)
     - [Book Recommendation Engine](https://github.com/Meenakshijk17/book-recommendation-engine) (Python | Collaborative Filtering)
 
-
 ## SQL
 - [SQL Problems](https://github.com/Meenakshijk17/SQL)
     - [LeetCode SQL Challenges](https://github.com/Meenakshijk17/SQL/tree/main/LeetCode) (SQL | Data Analysis)
@@ -32,7 +31,8 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
 ## Statistics for Data Science
 - [PCA and LDA](https://github.com/Meenakshijk17/IMDB-movie-review) (Python | Sklearn)
 
-## Power BI | Tableau | Visualizations
+## Power BI | Tableau | Visualizations | Data Storytelling
+- [CRM Sales Analysis Dashboard: Unveiling the Sales Story](https://github.com/Meenakshijk17/CRM-Sales-Analysis-PowerBI) (Power BI)
 - Lifestyle and Habit Tracking (Power BI | Data Analysis) (To be linked soon)
 
 
