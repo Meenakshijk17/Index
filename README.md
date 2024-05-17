@@ -33,7 +33,7 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
 
 ## Power BI | Tableau | Visualizations | Data Storytelling
 - [CRM Sales Analysis Dashboard: Unveiling the Sales Story](https://github.com/Meenakshijk17/CRM-Sales-Analysis-PowerBI) (Power BI)
-- Lifestyle and Habit Tracking (Power BI | Data Analysis) (To be linked soon)
+- [Lifestyle Tracking Dashboard](https://github.com/Meenakshijk17/Lifestyle-Tracker) (Power BI)
 
 
 
