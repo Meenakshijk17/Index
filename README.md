@@ -21,8 +21,8 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
 
 ## SQL
 - [SQL Case Studies/Problems](https://github.com/Meenakshijk17/SQL)
-    - [Case Study - Danny's Diner](https://github.com/Meenakshijk17/SQL/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) (SQL | Data Analysis)
-    - [LeetCode SQL Challenges](https://github.com/Meenakshijk17/SQL/tree/main/LeetCode) (SQL | Data Analysis)
+    - [Case Study - Danny's Diner](https://github.com/Meenakshijk17/SQL/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) (PostgreSQL | Data Analysis)
+    - [LeetCode SQL Challenges](https://github.com/Meenakshijk17/SQL/tree/main/LeetCode) (MySQL | Data Analysis)
 
 ## Python | PySpark
 - [Telecom Log Parsing](https://github.com/Meenakshijk17/Telecom-Log-Parsing-with-PySpark) (Python | PySpark)
