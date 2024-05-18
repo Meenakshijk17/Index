@@ -20,8 +20,9 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
     - [Book Recommendation Engine](https://github.com/Meenakshijk17/book-recommendation-engine) (Python | Collaborative Filtering)
 
 ## SQL
-- [SQL Case Studies/Problems](https://github.com/Meenakshijk17/SQL)
+- Case Studies
     - [Case Study - Danny's Diner](https://github.com/Meenakshijk17/SQL_Case_Study-Dannys_Diner) (PostgreSQL | Data Analysis)
+- Challenges
     - [LeetCode SQL Challenges](https://github.com/Meenakshijk17/SQL/tree/main/LeetCode) (MySQL | Data Analysis)
 
 ## Python | PySpark
