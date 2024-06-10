@@ -2,6 +2,13 @@
 
 Thanks for visiting my profile! Here is a list of my past projects, categorised based on skills, just to make your life a bit easier! 🙂
 
+## Contents
+- [Machine Learning | Deep Learning](https://github.com/Meenakshijk17/Index/edit/main/README.md#machine-learning--deep-learning-) 🤖
+- [SQL](https://github.com/Meenakshijk17/Index/edit/main/README.md#sql-) 🐬🐘
+- [Python | PySpark](https://github.com/Meenakshijk17/Index/edit/main/README.md#python--pyspark-) 🐍
+- [Statistics for Data Science](https://github.com/Meenakshijk17/Index/edit/main/README.md#statistics-for-data-science-) 🔬
+- [Power BI | Tableau | Visualizations | Data Storytelling](https://github.com/Meenakshijk17/Index/edit/main/README.md#power-bi--tableau--visualizations--data-storytelling-) 📊
+
 ## Machine Learning | Deep Learning 🤖
 
 - Algorithms from Scratch/ Custom Algorithms 📝
