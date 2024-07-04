@@ -4,6 +4,7 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
 
 ## Contents
 - [Machine Learning | Deep Learning](https://github.com/Meenakshijk17/Index/blob/main/README.md#machine-learning--deep-learning-) 🤖
+- [SAS]
 - [SQL](https://github.com/Meenakshijk17/Index/blob/main/README.md#sql-) 🐬🐘
 - [Python | PySpark](https://github.com/Meenakshijk17/Index/blob/main/README.md#python--pyspark-) 🐍
 - [Statistics for Data Science](https://github.com/Meenakshijk17/Index/blob/main/README.md#statistics-for-data-science-) 🔬
@@ -25,6 +26,9 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
     - [Credit Card Fraud Detection](https://github.com/Meenakshijk17/fraud-detection-pytorch) (PyTorch | SMOTE | Neural Network)
     - [IMDB Movie Review - Sentiment Analysis](https://github.com/Meenakshijk17/IMDB-movie-review) (Azure | Python)
     - [Book Recommendation Engine](https://github.com/Meenakshijk17/book-recommendation-engine) (Python | Collaborative Filtering)
+
+## SAS
+- [Diabetes Risk Factor Analysis](https://github.com/Meenakshijk17/Diabetes-Risk-Factor-Analysis)
 
 ## SQL 🐬🐘
 - Case Studies
