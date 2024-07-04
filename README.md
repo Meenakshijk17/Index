@@ -4,7 +4,7 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
 
 ## Contents
 - [Machine Learning | Deep Learning](https://github.com/Meenakshijk17/Index/blob/main/README.md#machine-learning--deep-learning-) 🤖
-- [SAS](https://github.com/Meenakshijk17/Index/blob/main/README.md#sas) 🧮
+- [SAS](https://github.com/Meenakshijk17/Index/blob/main/README.md#sas-) 🧮
 - [SQL](https://github.com/Meenakshijk17/Index/blob/main/README.md#sql-) 🐬🐘
 - [Python | PySpark](https://github.com/Meenakshijk17/Index/blob/main/README.md#python--pyspark-) 🐍
 - [Statistics for Data Science](https://github.com/Meenakshijk17/Index/blob/main/README.md#statistics-for-data-science-) 🔬
