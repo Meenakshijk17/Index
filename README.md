@@ -28,7 +28,7 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
     - [Book Recommendation Engine](https://github.com/Meenakshijk17/book-recommendation-engine) (Python | Collaborative Filtering)
 
 ## SAS 🧮
-- [Diabetes Risk Factor Analysis](https://github.com/Meenakshijk17/Diabetes-Risk-Factor-Analysis)
+- [Diabetes Risk Factor Analysis](https://github.com/Meenakshijk17/Diabetes-Risk-Factor-Analysis) (Data Analysis | Statistical Analysis & Modeling)
 
 ## SQL 🐬🐘
 - Case Studies
