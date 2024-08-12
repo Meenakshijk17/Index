@@ -42,6 +42,8 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
 - [Telecom Log Parsing](https://github.com/Meenakshijk17/Telecom-Log-Parsing-with-PySpark) (Python | PySpark)
 - [Computational Math](https://github.com/Meenakshijk17/computational-mathematics) (Python | Math)
 - [HangMan, the game](https://github.com/Meenakshijk17/hangman) (Python)
+- Challenges
+    - [Analyst Builder Python Challenges](https://github.com/Meenakshijk17/Python_AnalystBuilder) (Python | Data Analysis)
 
 ## Statistics for Data Science 🔬
 - [PCA and LDA](https://github.com/Meenakshijk17/IMDB-movie-review) (Python | Sklearn)
