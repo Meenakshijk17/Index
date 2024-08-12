@@ -50,6 +50,7 @@ Thanks for visiting my profile! Here is a list of my past projects, categorised 
 
 ## Power BI | Tableau | Visualizations | Data Storytelling 📊
 *(For a better experience, view the following projects in my [website](https://sites.google.com/view/kmeens-meenakshi-krishnakumar/projects))*
+- [Canadian Express Entry Analysis](https://sites.google.com/view/kmeens-meenakshi-krishnakumar/projects/canadian-express-entry) (Power BI)
 - [CRM Sales Analysis Dashboard: Unveiling the Sales Story](https://github.com/Meenakshijk17/CRM-Sales-Analysis-PowerBI) (Power BI)
 - [Lifestyle Tracking Dashboard](https://github.com/Meenakshijk17/Lifestyle-Tracker) (Power BI)
 - [Amazon Sales Analysis Dashboard](https://public.tableau.com/views/Amazon_Sales_Analysis_17179706026230/AnalysisDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) (Tableau)
